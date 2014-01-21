@@ -1,0 +1,15 @@
+{
+  "name": "seamless",
+  "version": "0.0.0",
+  "description": "A module to simplify sharing server and client-side models",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marclar/seamless.git"
+  },
+  "author": "Michael Kane",
+  "license": "MIT"
+}
